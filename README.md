@@ -1,1 +1,16 @@
-# EC320_lab5
+# EC320 Lab 5
+
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-33.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-34.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-35.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-36.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-37.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-38.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-39.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-40.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-41.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-42.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-43.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-44.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-45.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-46.jpg)
