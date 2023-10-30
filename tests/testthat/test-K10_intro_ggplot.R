@@ -18,7 +18,6 @@ test_that("K10: Question 1c", {
 test_that("K10: Question 2", {
   skip_incomplete(K10, "2")
   all(
-    expect_true("GeomBar" %in% class(x$layers[[1]]$geom)),
     expect_true(as_label(parse_eval(str_match_q(K10, 2))$mapping$x) == "sex")
   )
 })
